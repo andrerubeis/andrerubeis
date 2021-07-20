@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Andrea, a MSc student of Data Science and Engineering at Politecnico di Torino, focusing in Statistics and Machine Learning.
-I am part of the IT area of students' representatives RUN-PoliTO
-My main interests are machine learning applied to healtcare and computer vision.
+I am Andrea, a MSc student of Data Science and Engineering at Politecnico di Torino, focusing in Statistics and Machine Learning. 
+I am part of the IT area of students' representatives RUN-PoliTO 
+My main interests are machine learning applied to healtcare and computer vision. 
 You can contact me by e-mail, on LinkedIn or on Twitter.
