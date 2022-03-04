@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - [Netowrk Dynamics](https://github.com/andrerubeis/Network-Dynamics): 
   - [Labs](https://github.com/andrerubeis/Network-Dynamics/tree/main/Labs): assigned labs during the course.
   - [Homeworks](https://github.com/andrerubeis/Network-Dynamics/tree/main/Homeworks): simulations of network flow optimization, opinion dynamics and epidemics. 
--[Sentiment Analysis Classification Amazon Reviews](https://github.com/andrerubeis/Sentiment-Analysis-Classification-Amazon-Reviews): implementation of a LSTM network able to assign each review the corresponding ranking (0-5 stars) based on the text written in the review.
+
+- [Sentiment Analysis Classification Amazon Reviews](https://github.com/andrerubeis/Sentiment-Analysis-Classification-Amazon-Reviews): implementation of a LSTM network able to assign each review the corresponding ranking (0-5 stars) based on the text written in the review.
 
