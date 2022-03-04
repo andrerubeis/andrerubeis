@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 
 - [Sentiment Analysis Classification Amazon Reviews](https://github.com/andrerubeis/Sentiment-Analysis-Classification-Amazon-Reviews): implementation of a LSTM network able to assign each review the corresponding ranking (0-5 stars) based on the text written in the review.
 
+
+
