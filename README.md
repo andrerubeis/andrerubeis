@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 
 - [Online Shoppers Intention](https://github.com/andrerubeis/Online_Shoppers_Intention): project aiming to predict in real time transactions of a customer on an e-commerce website.
 
+---
+###Github Stats 📊
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrerubeis)](https://github.com/anuraghazra/github-readme-stats)
 
